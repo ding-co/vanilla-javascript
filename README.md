@@ -10,7 +10,7 @@
 
 > - [ ] [Chapter 4 - 자바스크립트 내장 객체](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch04)
 
-> - [ ] [Chapter 5 - 자바스크립트 고급 문법](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch05)
+> - [x] [Chapter 5 - 자바스크립트 고급 문법](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch05)
 
 > - [ ] [Chapter 6 - REST API](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch06)
 
