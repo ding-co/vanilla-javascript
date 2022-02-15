@@ -12,7 +12,7 @@
 
 > - [x] [Chapter 5 - 자바스크립트 고급 문법](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch05)
 
-> - [ ] [Chapter 6 - REST API](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch06)
+> - [x] [Chapter 6 - REST API](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch06)
 
 > - [ ] [Chapter 7 - Mock 서버 준비하기](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch07)
 
