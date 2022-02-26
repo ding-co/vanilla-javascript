@@ -16,7 +16,7 @@
 
 > - [x] [Chapter 7 - Mock 서버 준비하기](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch07)
 
-> - [ ] [Chapter 8 - 자바스크립트 HTML DOM](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch08)
+> - [x] [Chapter 8 - 자바스크립트 HTML DOM](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch08)
 
 > - [ ] [Chapter 9 - 자바스크립트의 메모리 관리](https://github.com/ding-co/vanilla-javascript/tree/main/code/ch09)
 
